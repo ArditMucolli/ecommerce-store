@@ -10,7 +10,7 @@ export interface Category {
   billboard: Billboard;
 }
 
-export interface PRoduct {
+export interface Product {
   id: string;
   category: Category;
   name: string;
